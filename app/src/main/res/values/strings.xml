@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="convertable"><strike>Convertable</strike></string>
+    <string name="price">C$36</string>
+    <string name="economy">Economy</string>
+    <string name="chevrolet_spark">Chevrolet Spark</string>
+    <string name="_4">4</string>
+    <string name="_1">1</string>
+    <string name="start_date_time">Apr 3, 12pm</string>
+    <string name="end_date_time">Apr 6,12pm</string>
+    <string name="pick_up">Pick-up</string>
+    <string name="non_airport">Non Airport</string>
+    <string name="drop_off">Drop-off</string>
+    <string name="avis">AVIS</string>
+    <string name="cad_per_day_nincl_tax_fees"><![CDATA[CAD per day,\nincl. tax & fees]]></string>
+    <string name="offer_detail">Offer Detail</string>
+    <string name="luxury_car">Luxury Car</string>
+    <string name="audi_a5_sportback_or_similar">Audi A5 Sportback or Similar</string>
+    <string name="apr_3_12pm_apr6_12pm">Apr 3, 12pm - Apr6, 12pm</string>
+    <string name="str_price">$1,417</string>
+    <string name="str_book">Book</string>
+    <string name="str_automatic">Automatic</string>
+    <string name="str_air_con">Air Conditioning</string>
+    <string name="str_in_terminal">In Terminal</string>
+    <string name="str_filter_text"><big>C$31 - C$1,417</big><![CDATA[ per day, incl. taxes & fees]]></string>
+    <string name="select_filters">Select Filters</string>
+    <string name="lowest_price">LOWEST PRICE</string>
+    <string name="distance">DISTANCE</string>
+    <string name="recommended">RECOMMENDED</string>
+    <string name="dubai">Dubai</string>
+</resources>
